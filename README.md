@@ -11,3 +11,5 @@ THEN this information is added to the sections of the README entitled Descriptio
 WHEN I choose a license for my application from a list of options<br>
 THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under<br>
 WHEN I enter my GitHub username<br>
+THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile<br>
+WHEN I enter my email address<br>
