@@ -1,5 +1,5 @@
 # READMEgen
-![image](https://user-images.githubusercontent.com/112996304/201788066-80343500-3732-409f-b585-0c238634b1c6.png)
+![ezgif-4-47e13f8038](https://user-images.githubusercontent.com/112996304/201795628-e80e22b9-2fb7-4dff-ac3c-a32526b77dcd.gif)
 
 GIVEN a command-line application that accepts user input<br>
 WHEN I am prompted for information about my application repository<br>
